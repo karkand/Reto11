@@ -1,6 +1,6 @@
 Reto11
 ======
 
-Proyecto 1: Red Social GGaming.es
+Aprender el funcionamiento de la plataforma GIT
 
 
