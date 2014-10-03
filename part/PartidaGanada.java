@@ -4,7 +4,7 @@ public class PartidaGanada extends Exception{
 	super();
 	}
 	
-	public PartidaGanada(Ficha f){
+	public PartidaGanada(Ficha f){ñ
 	super(f.getColor()+"("+f.getFila()+","+f.getColumna()+")");
 	}
 }
