@@ -1,4 +1,6 @@
 Reto11
 ======
 
-Probando probando
+Proyecto 1: Red Social GGaming.es
+
+
